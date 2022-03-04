@@ -1,2 +1,2 @@
 #!/bin/bash
-touch  -p tmp/iamafile && file tmp/iamafile
+file /tmp/iamafile
